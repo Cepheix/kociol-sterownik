@@ -1,0 +1,14 @@
+0
+c:\programdata\codesys v2.3\compile\visu_ini.xml
+c:\programdata\codesys v2.3\compile\alm_ini.xml
+c:\program files (x86)\wago software\codesys v2.3\visu\minml.jar
+c:\program files (x86)\wago software\codesys v2.3\visu\webvisu.jar
+c:\program files (x86)\wago software\codesys v2.3\visu\webvisu.htm
+c:\programdata\codesys v2.3\compile\channel_visu.xml
+c:\programdata\codesys v2.3\compile\logger_visu.xml
+c:\programdata\codesys v2.3\compile\plc_visu.xml
+c:\programdata\codesys v2.3\compile\plc_visu_oil.xml
+c:\programdata\codesys v2.3\compile\plc_visu_steam.xml
+c:\programdata\codesys v2.3\compile\plc_visu_water.xml
+c:\programdata\codesys v2.3\compile\visu_menu.xml
+c:\programdata\codesys v2.3\compile\program-chp-3vis.txt
